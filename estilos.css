@@ -70,7 +70,7 @@ p{margin:0 0 1em;max-width:65ch}
 }
 
 /* portada */
-.hero{position:relative;overflow:hidden;background:var(--cielo-claro) url(img/slide-lapices.svg?v=202610282354) center/cover no-repeat}
+.hero{position:relative;overflow:hidden;background:var(--cielo-claro) url(img/slide-lapices.svg?v=202610290843) center/cover no-repeat}
 .hero .wrap{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:40px;align-items:center;padding-block:clamp(56px,8vw,104px)}
 .hero-card{background:rgba(255,255,255,.93);border-radius:28px;padding:clamp(26px,4vw,46px);box-shadow:0 24px 60px rgba(15,63,125,.14)}
 .hero-card p{font-size:1.15rem;color:var(--gris);margin-top:16px}
@@ -120,7 +120,7 @@ p{margin:0 0 1em;max-width:65ch}
 
 
 /* banda inscripciones */
-.banda{background:var(--azul) url(img/slide-ninos.svg?v=202610282354) center bottom/cover no-repeat;color:#fff;position:relative}
+.banda{background:var(--azul) url(img/slide-ninos.svg?v=202610290843) center bottom/cover no-repeat;color:#fff;position:relative}
 .banda:before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(26,45,78,.93) 0%,rgba(26,45,78,.8) 55%,rgba(26,45,78,.2) 100%)}
 .banda .wrap{position:relative;padding-block:clamp(60px,8vw,96px) clamp(140px,16vw,220px)}
 .banda h2{color:#fff}.banda p{color:#e3eeff}
@@ -146,7 +146,7 @@ p{margin:0 0 1em;max-width:65ch}
 .credito{font-size:.78rem;color:var(--gris);margin-top:6px}
 
 /* cabecera de página interna */
-.page-head{background:var(--cielo-claro) url(img/slide-lapices.svg?v=202610282354) center/cover;padding-block:clamp(48px,7vw,84px)}
+.page-head{background:var(--cielo-claro) url(img/slide-lapices.svg?v=202610290843) center/cover;padding-block:clamp(48px,7vw,84px)}
 .page-head .caja{background:rgba(255,255,255,.93);border-radius:24px;padding:clamp(22px,3vw,36px);max-width:760px}
 .migas{font-size:.88rem;color:var(--gris);margin-bottom:10px}.migas a{color:var(--gris)}
 .nota{background:#fff6d6;border:1px solid #f0dc8a;color:#5b4700;border-radius:14px;padding:14px 18px;font-size:.92rem;margin-top:28px;max-width:none}
